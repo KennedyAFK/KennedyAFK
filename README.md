@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @KennedyAFK
-- 👀 I’m interested in WebDevelopment mostly frontend, but backend to.
-- 🌱 I’m currently learning JS, CSS, React and focusing my free time on some SQL too.
+- 👀 I’m interested in WebDevelopment mostly frontend.
+- 🌱 I’m currently learning HTML, CSS. 
+- And also while learning i am posting some codes on here too, nothing too fancy but just so i can get some feedback on them :D
 
 <!---
 KennedyAFK/KennedyAFK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
