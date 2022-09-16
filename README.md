@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KennedyAFK
-- 👀 I’m interested in WebDevelopment mostly frontend.
+- 👀 I’m interested in WebDevelopment.
 - 🌱 I’m currently learning HTML, CSS. 
 - And also while learning i am posting some codes on here too, nothing too fancy but just so i can get some feedback on them :D
 
