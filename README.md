@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KennedyAFK
+- 👋 Hi, I’m @KennedyAFK.
 - 👀 I’m interested in WebDevelopment.
 - 🌱 I’m currently learning HTML, CSS. 
 
