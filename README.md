@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kennedy Oliveira</h1>
-<h3 align="center">Supporte Technician from Brazil</h3>
+<h3 align="center">Support Technician from Brazil</h3>
 
 - 🌱 I’m currently learning **ReactJS, TypeScript, Node.js**
 
