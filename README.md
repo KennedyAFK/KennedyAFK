@@ -7,9 +7,11 @@ Sou um assistente de T.I apaixonado por criar soluções elegantes e eficientes.
 - **Backend**: Go, TypeScript
 - **Ferramentas e Frameworks**: React, Node.js, Express, etc.
 
-## Projetos em Destaque
-- [Projeto 1](link-do-projeto): Descrição breve do projeto.
-- [Projeto 2](link-do-projeto): Descrição breve do projeto.
+## Projeto em Destaque
+- **Automação de Navegador com Go e Chromedp**: Este projeto implementa uma automação de navegador simples utilizando Go e o pacote chromedp. A automação realiza login em um sistema, seleciona um armazém, busca por uma carga específica e associa à ela as notas fiscais informadas pelo usuário. Ao final, uma notificação é enviada ao usuário, e o navegador permanece aberto para visualização..
+
+🔗**Link do Projeto**
+- <a href="https://github.com/KennedyAFK/go-browser-automation" target="blank">Clique aqui!</a> 
 
 ## Entre em Contato
 <p align="left">
