@@ -1,11 +1,11 @@
 # Olá, sou Kennedy! 👋
 
-Sou um assistente de T.I apaixonado por criar soluções elegantes e eficientes. Com experiência em HTML, CSS, JavaScript, Go e TypeScript, estou sempre em busca de novos desafios e oportunidades para aprender e crescer.
+Sou um assistente de T.I focado em criar soluções eficientes e escaláveis. Trabalho com diversas linguagens e ferramentas para construir APIs robustas e sistemas de alta performance.
 
 ## Tecnologias que eu uso
-- **Frontend**: HTML, CSS, JavaScript
-- **Backend**: Go, TypeScript
-- **Ferramentas e Frameworks**: React, Node.js, Express, etc.
+- **Backend**: Python (Django, Flask), Node.js (Express, NestJS), Go
+- **Ferramentas e Frameworks**: Docker, Git, CI/CD
+- **Banco de Dados**: PostgreSQL
 
 ## Projeto em Destaque
 - **Automação de Navegador com Go e Chromedp**: Este projeto implementa uma automação de navegador simples utilizando Go e o pacote chromedp. A automação realiza login em um sistema, seleciona um armazém, busca por uma carga específica e associa à ela as notas fiscais informadas pelo usuário. Ao final, uma notificação é enviada ao usuário, e o navegador permanece aberto para visualização..
