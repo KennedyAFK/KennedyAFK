@@ -1,11 +1,10 @@
 # Olá, sou Kennedy! 👋
 
-Sou um assistente de T.I focado em criar soluções eficientes e escaláveis. Trabalho com diversas linguagens e ferramentas para construir APIs robustas e sistemas de alta performance.
+Sou um Analista de Suporte a Sistema focado em evolução continua, games e series.
 
-## Tecnologias que eu uso
-- **Backend**: Python (Django, Flask), Node.js (Express, NestJS), Go
-- **Ferramentas e Frameworks**: Docker, Git, CI/CD
-- **Banco de Dados**: PostgreSQL
+## Tecnologias que estou aprendendo..
+- **Go**
+- **JAVA**
 
 ## Projeto em Destaque
 - **Automação de Navegador com Go e Chromedp**: Este projeto implementa uma automação de navegador simples utilizando Go e o pacote chromedp. A automação realiza login em um sistema, seleciona um armazém, busca por uma carga específica e associa à ela as notas fiscais informadas pelo usuário. Ao final, uma notificação é enviada ao usuário, e o navegador permanece aberto para visualização..
